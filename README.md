@@ -1,8 +1,4 @@
 # 8-bit Arithmetic Operations on ATMEGA328  
-📌 **Course:** EE375 Microcontrollers and Interfacing  
-📜 **Author:** Sarwan Shah  
-
----
 
 ## 📌 Project Overview  
 This project was developed under the **EE375 Microcontrollers and Interfacing** course at Habib University during Fall 2018
