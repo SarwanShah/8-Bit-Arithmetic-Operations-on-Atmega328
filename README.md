@@ -1,7 +1,7 @@
 # 8-bit Arithmetic Operations on ATMEGA328  
 
 ## 📌 Project Overview  
-This project was developed under the **EE375 Microcontrollers and Interfacing** course at Habib University during Fall 2018
+This project was developed under the **EE375 Microcontrollers and Interfacing** course at Habib University during Spring 2019
 This project demonstrates **8-bit arithmetic operations** on a sequence of **10 value pairs**, where the operations (`+`, `-`, `*`, `/`) are defined using **ASCII characters**. The data and operations are stored in the **ATMEGA328 Program Flash Memory (ROM)** at address `0x200`. The computed results are then stored in the **Internal RAM (IRAM)** at address `0x100`.  
 
 **REPORT: https://github.com/SarwanShah/8-Bit-Arithmetic-Operations-on-Atmega328/blob/main/Report.pdf**
